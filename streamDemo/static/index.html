@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<div id="status"></div><br>
-		<div><video id="remotevideo" autoplay="true" controls="true"></video>
+		<div><video id="remotevideo" autoplay controls ></video>
 		</div>
 		<div>
 			file you want to stream 
@@ -40,7 +40,7 @@
 			};
 			function onRoomReceived(room) {
 				var st = document.getElementById("status");
-				st.innerHTML = "Now, if somebody wants to join you, should use this link: <a href=\""+window.location.href+"?room="+room+"\">"+window.location.href+"?room="+room+"</a>";
+				st.innerHTML = "Now, if somebody wants to join you, should use this link: <a href=\""+window.location.href+"?room="+room+"\" target=\"_blank\">"+window.location.href+"?room="+room+"</a>";
 			};
 		</script> 
 
