@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7993b60-d53d-43f4-8e1d-472c8b534d3e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamDemo/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/streamDemo/client.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/streamDemo/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/streamDemo/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/streamDemo/static/myrtclib.js" beforeDir="false" afterPath="$PROJECT_DIR$/streamDemo/static/myrtclib.js" afterDir="false" />
     </list>
@@ -17,21 +18,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/streamDemo/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+            <state relative-caret-position="710">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myrtclib.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myrtclib.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/streamDemo/static/myrtclib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+            <state relative-caret-position="309">
+              <caret line="437" column="6" lean-forward="true" selection-start-line="437" selection-start-column="6" selection-end-line="438" />
             </state>
           </provider>
         </entry>
@@ -59,9 +60,10 @@
       <find>remoteVideo</find>
       <find>location</find>
       <find>RTCIceServer</find>
-      <find>onRoomReceived</find>
       <find>data_channel</find>
       <find>paused</find>
+      <find>myrtclibinit(</find>
+      <find>onRoomReceived</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,55 +88,6 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/accepts/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/array-flatten/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/body-parser/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/bytes/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/content-disposition/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/content-type/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/cookie-signature/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/cookie/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/debug/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/destroy/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/ee-first/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/encodeurl/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/escape-html/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/etag/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/express/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/finalhandler/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/forwarded/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/fresh/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/http-errors/node_modules/depd/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/http-errors/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/http-errors/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/iconv-lite/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/inherits/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/ipaddr.js/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/media-typer/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/merge-descriptors/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/methods/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/mime-db/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/mime-types/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/mime/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/ms/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/negotiator/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/on-finished/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/parseurl/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/path-to-regexp/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/proxy-addr/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/qs/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/range-parser/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/raw-body/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/safe-buffer/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/send/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/serve-static/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/setprototypeof/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/statuses/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/type-is/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/unpipe/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/utils-merge/package.json" />
-      <path value="$PROJECT_DIR$/streamDemo/node_modules/vary/package.json" />
       <path value="$PROJECT_DIR$/streamDemo/package.json" />
     </packageJsonPaths>
   </component>
@@ -149,7 +102,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,16 +114,11 @@
               <item name="streamDataDemo" type="462c0819:PsiDirectoryNode" />
               <item name="streamDemo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="streamDataDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="streamDataDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="streamDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,8 +140,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.client.js">
     <configuration name="client.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="client.js" working-dir="$PROJECT_DIR$/streamDemo" />
+    <configuration name="myrtclib.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="myrtclib.js" working-dir="$PROJECT_DIR$/streamDemo/static" />
+    <list>
+      <item itemvalue="Node.js.client.js" />
+      <item itemvalue="Node.js.myrtclib.js" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.client.js" />
@@ -212,33 +164,34 @@
       <option name="presentableId" value="Default" />
       <updated>1537242198690</updated>
       <workItem from="1537242200202" duration="9697000" />
+      <workItem from="1537345885900" duration="3975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9697000" />
+    <option name="totallyTimeSpent" value="13672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12527233" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12527233" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.35828876" />
       <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.171123" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.20213903" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.20213903" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +200,33 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/streamDemo/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streamDemo/client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/streamDemo/static/myrtclib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/streamDemo/static/adapter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4522">
@@ -269,17 +248,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/streamDemo/static/index.html">
+    <entry file="file://$PROJECT_DIR$/streamDemo/static/myrtclib.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="40" column="43" lean-forward="true" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        <state relative-caret-position="309">
+          <caret line="437" column="6" lean-forward="true" selection-start-line="437" selection-start-column="6" selection-end-line="438" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/streamDemo/static/myrtclib.js">
+    <entry file="file://$PROJECT_DIR$/streamDemo/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="89" column="29" lean-forward="true" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        <state relative-caret-position="710">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
